@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Nikoloz 👋
 
 Software developer focused on building practical, real-world applications. I enjoy turning ideas into working products and improving them through iteration, problem-solving, and clean design.
